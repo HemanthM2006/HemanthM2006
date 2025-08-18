@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Learning Full Stack Web Development by building small daily projects  <br>🌱 I’m currently learning: Node.js  <br>⚡ Fun fact: I enjoy watching web series 🍿
+🔭 I’m currently working on: Learning Full Stack Web Development  <br>🌱 I’m currently learning: Node.js  <br>⚡ Fun fact: I enjoy watching web series 🍿
 
 
 ## 🌐 Socials:
