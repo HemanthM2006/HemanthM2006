@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Learning Full Stack Web Development  <br>🌱 I’m currently learning: Node.js  <br>⚡ Fun fact: I enjoy watching web series 🍿
+🔭 I’m currently working on: Learning Data Structures & Algorithms  <br>🌱 I’m currently learning: DSA in Java  <br>⚡ Fun fact: I enjoy watching web series 🍿
 
 
 ## 🌐 Socials:
