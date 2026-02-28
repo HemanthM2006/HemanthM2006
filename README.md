@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently working on: Learning Data Structures & Algorithms  <br>🌱 I’m currently learning: DSA in Java  <br>⚡ Fun fact: I enjoy watching web series 🍿
+
+I’m a 2nd-year Computer Science student passionate about building intelligent systems and solving real-world problems through code.
+🧠 Currently learning Machine Learning & AI (Andrew Ng – DeepLearning.AI)
+📊 Strengthening fundamentals in Data Structures & Algorithms
+🌐 Exploring Web Development to build and deploy real-world applications
+🛠️ Working on end-to-end projects (model training → evaluation → deployment)
+🚀 Aspiring to become a Machine Learning Engineer
 
 
 ## 🌐 Socials:
