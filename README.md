@@ -1,12 +1,12 @@
 ## 💫 About Me
 
-I’m a 2nd-year Computer Science student passionate about building intelligent systems and solving real-world problems through code.<br><br>
+I’m a 2nd-year Computer Science student passionate about building intelligent systems and solving real-world problems through code.<br>
 
 🧠 Currently learning <strong>Machine Learning & AI</strong><br><br>
 📊 Strengthening fundamentals in <strong>Data Structures & Algorithms</strong><br><br>
 🌐 Exploring <strong>Web Development</strong> to build and deploy real-world applications<br><br>
 🛠️ Working on end-to-end projects (model training → evaluation → deployment)<br><br>
-🚀 Aspiring to become a <strong>Machine Learning Engineer</strong><br>
+🚀 Aspiring to become a <strong>Machine Learning Engineer</strong><br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hemanth_m_06) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemimpana@gmail.com)  [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/HemanthM06/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemanth-m-349a51329)
