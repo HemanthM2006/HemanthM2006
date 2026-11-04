@@ -1,6 +1,6 @@
 ## 💫 About Me
 
-I’m a 2nd-year Computer Science student passionate about building intelligent systems and solving real-world problems through code.
+I’m a 3rd-year Computer Science student passionate about building intelligent systems and solving real-world problems through code.
 
 🧠 Currently learning **Machine Learning & AI**  
 📊 Strengthening fundamentals in **Data Structures & Algorithms**  
